@@ -1,0 +1,49 @@
+body {
+    padding-top: 5%;
+    color : #3944a6 ;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    background-image: url("https://wi.wallpapertip.com/wsimgs/81-810417_minimalist-hd-wallpaper-macbook-pro.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    line-height: 150%;
+    font-size: larger;
+    font-weight: 600;
+    padding-bottom: 20px;
+} 
+
+h1{
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+button{
+    padding: 5px;
+    color: #3944a6;
+    border: none;
+    border: 1px solid #3944a6;
+    background-color: white;
+}
+button:hover{
+    opacity: 60%;
+}
+::-webkit-input-placeholder {
+    color: #3944a6;
+    opacity: 60%;}
+    
+    input[type=text]:focus {
+        outline: none;
+    }
+    
+    .form{
+        padding: 5px;
+        background-color:
+        white;
+        border: none;
+        border: 1px solid #3944a6;
+}
+b{
+    font-size: larger;
+}

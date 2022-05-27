@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="app.css">
+    <title>The Join Us App</title>
+</head>
+<body>
+    
+    <h1>JOIN US APP</h1>
+    
+    <p class="lead"><u><b><strong><%=data%></strong></u></b> users have already subscribed to our mailing list. <br> What are you waiting for? JOIN US RIGHT NOW !!</p>
+    
+    <form method="POST" action='/register'>
+     <input type="text" name="email" class="form" placeholder="Enter Your Email">
+     <button>Join Now</button>
+    </form>
+</body>
+</html>
