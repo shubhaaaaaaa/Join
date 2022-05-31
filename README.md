@@ -1,5 +1,5 @@
 # JoinUs_App
- A mailing list application that stores the user's email addresses in the database for future use.
+ A mailing list application that stores the user's email addresses in the database and displays the total number to the user in real time.
  
  To access this site follow the following steps :
  
