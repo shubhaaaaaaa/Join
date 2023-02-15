@@ -8,3 +8,8 @@
  Step 3 : In your terminal, run the following code : node index.js\
  Step 4 : Type in 'localhost:3000' in your local browser.
  
+ ## Screenshots
+This is what the site looks like. The number increases as people join in.
+
+![App Screenshot](https://github.com/shubhaaaaaaa/MyPersonal_Site/blob/main/assets/img/joinus.png)
+ 
